@@ -1,4 +1,6 @@
 Include ignored files
 *.csv
 .ipynb_checkpoints/
+.DS_Store
+
 
